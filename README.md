@@ -26,11 +26,11 @@ The program:
 * Input image location
 * Program converts image to grayscale
 * User selects:
-** Display ✅
-** Save ✅
+         Display ✅
+         Save ✅
 * If save → asks for filename and stores the processed image locally
 
-## ⚡ Future Enhancements (Optional)
+## ⚡ Future Enhancements 
 
 * Add auto-image preview before saving
 * Bulk image grayscale conversion
